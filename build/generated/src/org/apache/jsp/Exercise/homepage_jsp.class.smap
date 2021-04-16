@@ -1,0 +1,14 @@
+SMAP
+homepage_jsp.java
+JSP
+*S JSP
+*F
++ 0 homepage.jsp
+Exercise/homepage.jsp
++ 1 insurance_css.jsp
+Exercise/insurance_css.jsp
+*L
+5,10:49
+5#1,166:59
+14#0,80:225
+*E
