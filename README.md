@@ -8,4 +8,4 @@ Steps after you cloned/forked this project:
 
 I used Netbeans IDE.
 
-There you go. Hope this will help you to start your journey as a software developer! Thanks!
+There you go. I hope this will help you to start your journey as a software developer! Thanks!
