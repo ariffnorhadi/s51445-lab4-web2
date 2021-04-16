@@ -6,4 +6,6 @@ Steps after you cloned/forked this project:
 2. Create database insurance (default) , then drag insurance.sql that you will find on the root directory of the project to the Xampp. This will import the sql file to your database
 3. Run homepage.jsp at lab4_s51445\web\Exercise
 
-There you go. Hope this will help you to start your journey as developer! Thanks!
+I used Netbeans IDE.
+
+There you go. Hope this will help you to start your journey as a software developer! Thanks!
