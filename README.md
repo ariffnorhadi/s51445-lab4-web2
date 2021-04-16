@@ -1,5 +1,5 @@
 # s51445-lab4-web2
-This is my first full stack web development project I've ever built in my life. It is called the Insurance Management System. I submitted this assignments late. Maybe few months after the deadline. I'm just happy that I made it the best I can.
+This is my first full stack web development project I've ever built in my life. It is called the Insurance Management System. I submitted this assignment late. Maybe few months after the deadline. I'm just happy that I made it the best I can.
 
 Step after you clone this project:
 1. Open Xampp, on Apache and MySQL
