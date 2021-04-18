@@ -9,6 +9,7 @@ Steps after you cloned/forked this project:
 I used Netbeans IDE.
 
 Also, you may have to configure MySQL.java at /src/java/lab4/Exercise based on your settings that you use.
+
 Below is the default (my configuration)
 String url = "jdbc:mysql://localhost:3306/insurance";
 String user = "root";
